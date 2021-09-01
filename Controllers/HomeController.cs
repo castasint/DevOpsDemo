@@ -19,7 +19,7 @@ namespace DevOpsDemo.Controllers
             {
             this.configuration = configuration;
             }
-        // GET: api/<HomeController>
+     
         [HttpGet]
         public IActionResult Get()
             {
